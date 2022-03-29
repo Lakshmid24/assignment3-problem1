@@ -4,7 +4,7 @@
 # In[2]:
 
 
-#to sum the elements in a list
+#python function to sum the elements in a list
 def summation(lista):
     s=0
     for i in range(len(lista)):
